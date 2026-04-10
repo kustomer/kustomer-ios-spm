@@ -12,6 +12,12 @@ Embed [Kustomer](https://www.kustomer.com/) in your own products with our chat S
 ----------------
 
 
+## Chat Lifecycle
+
+**Swift Package Manager** distribution for the **iOS chat SDK**. Same runtime story as **chat-sdk-ios** and **PubNub** via **chat-api** definitions: [pubnub.md](https://github.com/kustomer/chat-api/blob/master/pubnub.md).
+
+**See also:** [chat-api — Chat Lifecycle](https://github.com/kustomer/chat-api/blob/master/README.md#chat-lifecycle) · [chat-sdk-ios](https://github.com/kustomer/chat-sdk-ios)
+
 ## Documentation and guides
 
 [iOS Docs and guides](https://developer.kustomer.com/chat-sdk/v2-iOS/docs)
