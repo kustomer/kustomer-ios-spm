@@ -4,8 +4,8 @@ import PackageDescription
 
 let kustomerChatFramework = Target.binaryTarget(
   name: "KustomerChatSDK",
-  url: "https://github.com/kustomer/kustomer-ios/archive/refs/tags/7.1.5.zip",
-  checksum: "9bcf3a151dc50d61054211a64b7daeba01ffe18951c2a2cc35861f87d90d107f")
+  url: "https://github.com/kustomer/kustomer-ios/archive/refs/tags/7.2.0.zip",
+  checksum: "314d575da58c0a3864e3454c12c379069df763e3070f07f6268d6f6f1a8ad175")
 
 let package = Package(
   name: "kustomer-ios",
